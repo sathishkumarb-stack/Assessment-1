@@ -1,0 +1,8 @@
+requests
+python-dotenv
+pandas
+matplotlib
+numpy
+notebook
+nbconvert
+nbformat
